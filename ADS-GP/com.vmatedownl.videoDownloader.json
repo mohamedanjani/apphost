@@ -1,29 +1,29 @@
 {"ads":{
   
-    "applovin_inter":"269d73adeea133fb",
-    "applovin_native":"5534d47212ed8e80",
-    "applovin_banner":"d7e5387a22cc8044",
+    "applovin_inter":"5add6f1c869250d4",
+    "applovin_native":"d6b45e767f2ae7cb",
+    "applovin_banner":"6f784d25f84ae72b",
     
       
-    "applovin_inter2":"269d73adeea133fb",
-    "applovin_native2":"5534d47212ed8e80",
-    "applovin_banner2":"d7e5387a22cc8044",
+    "applovin_inter2":"5add6f1c869250d4",
+    "applovin_native2":"d6b45e767f2ae7cb",
+    "applovin_banner2":"6f784d25f84ae72b",
       
-    "applovin_inter3":"269d73adeea133fb",
-    "applovin_native3":"5534d47212ed8e80",
-    "applovin_banner3":"d7e5387a22cc8044",
+    "applovin_inter3":"5add6f1c869250d4",
+    "applovin_native3":"d6b45e767f2ae7cb",
+    "applovin_banner3":"6f784d25f84ae72b",
       
-    "applovin_inter4":"269d73adeea133fb",
-    "applovin_native4":"5534d47212ed8e80",
-    "applovin_banner4":"d7e5387a22cc8044",
+    "applovin_inter4":"5add6f1c869250d4",
+    "applovin_native4":"d6b45e767f2ae7cb",
+    "applovin_banner4":"6f784d25f84ae72b",
       
-    "applovin_inter5":"269d73adeea133fb",
-    "applovin_native5":"5534d47212ed8e80",
-    "applovin_banner5":"d7e5387a22cc8044",
+    "applovin_inter5":"5add6f1c869250d4",
+    "applovin_native5":"d6b45e767f2ae7cb",
+    "applovin_banner5":"6f784d25f84ae72b",
       
-    "applovin_inter6":"269d73adeea133fb",
-    "applovin_native6":"5534d47212ed8e80",
-    "applovin_banner6":"d7e5387a22cc8044",
+    "applovin_inter6":"5add6f1c869250d4",
+    "applovin_native6":"d6b45e767f2ae7cb",
+    "applovin_banner6":"6f784d25f84ae72b",
       
       
       
@@ -107,15 +107,15 @@
     "applovin_keywords":["test","test","test"],
     "rate_photo":"https://github.com/imad-123/callrecorder.github.io/raw/gh-pages/rate_photo.jpg",
     
-    "rate_active":"on",
-    "start_backg_ads":"yes",
+    "rate_active":"off",
+    "start_backg_ads":"non",
     "change_iconandname":"non",
     "background_ads_delay":"15",
     "ads_account_change_after":"1",
-    "banner_network_choice":"non", 
-    "interstisial_network_choice":"non", 
+    "banner_network_choice":"applovin", 
+    "interstisial_network_choice":"applovin", 
     
-    "native_network_choice":"non"
+    "native_network_choice":"applovin"
       
     
     }
