@@ -7,10 +7,10 @@
 "unity_gameid":"5082535",
   
   
-"applovin_inter":"269d73adeea133fb",
-"applovin_native":"5534d47212ed8e80",
-"applovin_banner":"d7e5387a22cc8044",
-"applovin_reward":"a017b8481646d9c2",
+"applovin_inter":"",
+"applovin_native":"",
+"applovin_banner":"",
+"applovin_reward":"",
 
 
  
@@ -40,10 +40,10 @@
 
 
 
-"banner_network_choice":"non", 
-"interstisial_network_choice":"non", 
-"reward_network_choice":"non",
-"native_network_choice":"non"
+"banner_network_choice":"applovin", 
+"interstisial_network_choice":"applovin", 
+"reward_network_choice":"applovin",
+"native_network_choice":"applovin"
   
   
 
